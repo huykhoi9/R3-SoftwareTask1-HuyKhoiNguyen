@@ -8,5 +8,6 @@ Thinkcad is used to implement the circuit. The goal of this circuit was to make 
 
 https://www.tinkercad.com/things/7Y5GNNLrZ6F).
 
+![image](https://user-images.githubusercontent.com/85450944/155073365-e703ff6f-34a6-4979-aa4c-ed054d854aaa.png)
 
 
